@@ -1,3 +1,7 @@
+# Shiorin
+Simple YouTube RSS Monitoring and Recording Script
+
+# インストール
 1. ytarchiveとFFmpegのPATHを通しておく必要があります。
 (参考) https://github.com/HoloArchivists/hollow_memories
 
